@@ -1,7 +1,7 @@
 
 # debinfect
 
-🦟 Adds malicious payload to .deb packages - This project aims to understand how the .deb packages work in depth
+🦟 Adds malicious payload to .deb packages
 
 Example:
 
