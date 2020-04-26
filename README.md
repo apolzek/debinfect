@@ -1,7 +1,7 @@
 
 # debinfect
 
-🦟 Adds malicious payload to .deb packages
+🦟 Adds malicious payload to .deb package
 
 Example:
 
