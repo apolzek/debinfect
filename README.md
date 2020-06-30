@@ -17,7 +17,3 @@ Infected package: ***ninvaders.deb***
 ---
  [Tested: **Kali 2020.1**]
  
-![kali](https://i.imgur.com/qD39vgk.png)
-
-
-[DEMO](https://i.imgur.com/I9CvGjt.gif)
